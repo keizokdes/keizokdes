@@ -39,16 +39,45 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-<h4>📁 <a href="https://github.com/keizokdes/YouTubeLivestreamApp">YouTubeLivestreamApp</a></h4>
-<p>This 3-tier real-time livestream data analysis app that can automatically detects YouTube livestreams by the user's favorite YouTube channels, collect the comments, listeners, donation, etc. It shows in graphs how much these channels made during the session and also compare with each other. Deployed on EC2 with GitAction as CI/CD pipeline. </p>
-<p><sub><b>Built with:</b> Python, flask, kafka, react, aws EC2, etc</sub></p>
+<h4>📺 <a href="https://github.com/keizokdes/YouTubeLivestreamApp">YouTube Livestream Tracking Service</a></h4>
 
-<h4>📁 <a href="https://github.com/keizokdes/Computer_Vision_Based_Acoustic_Guitar_Technique_Detection">Computer_Vision_Based_Acoustic_Guitar_Technique_Detection</a></h4>
-<p>Open source project repository</p>
-<p><sub><b>Built with:</b> Python, SAM, Pytorch</sub></p>
+<p>
+A full-stack service for monitoring and analyzing YouTube livestream interactions in real time. 
+Built around a Flask REST API with Celery and RabbitMQ for asynchronous processing, PostgreSQL for persistent storage, 
+and a React Native/Expo frontend for viewing livestream data and analytics. The application is containerized with Docker 
+and includes an automated deployment workflow to AWS EC2.
+</p>
 
-<h4>📁 <a href="https://github.com/keizokdes/Computer_Vision_Based_Calculator">Computer_Vision_Based_Calculator</a></h4>
-<p><sub><b>Built with:</b> Python, Pytorch</sub></p>
+<p><strong>Highlights:</strong> Full-Stack Development · REST API Design · Asynchronous Processing · Real-Time Data · CI/CD · Cloud Deployment</p>
+
+<p><sub><b>Built with:</b> Python · Flask · Celery · RabbitMQ · PostgreSQL · React Native · Expo · TypeScript · Docker · AWS EC2 · GitHub Actions</sub></p>
+
+
+<h4>🎸 <a href="https://github.com/keizokdes/Computer_Vision_Based_Acoustic_Guitar_Technique_Detection">Guitar Technique Detection</a></h4>
+
+<p>
+An honours research project exploring automatic recognition of acoustic guitar techniques from video using computer vision 
+and deep learning. The pipeline fine-tunes YOLOv8n for hand detection, extracts motion features using optical flow, 
+represents movement as directional histograms, and trains a multi-stream CNN classifier to distinguish guitar techniques.
+</p>
+
+<p><strong>Highlights:</strong> Computer Vision · Deep Learning · Object Detection · Optical Flow · Multi-Stream CNN · ML Research</p>
+
+<p><sub><b>Built with:</b> Python · PyTorch · YOLOv8n · OpenCV · NumPy · scikit-learn · Segment Anything · Jupyter · CUDA</sub></p>
+
+
+<h4>🍽️ <a href="https://github.com/COSC-499-W2023/year-long-project-team-21">LoseTheLeftovers</a></h4>
+
+<p>
+A cross-platform food-sharing application developed as a team capstone project to connect people with surplus food 
+to others in their local community. The system combines a React Native mobile frontend with a Django REST API backend, 
+supporting food listings, location-based discovery, user accounts, authentication, and real-time communication.
+</p>
+
+<p><strong>Highlights:</strong> Mobile Development · REST API Design · Team Software Engineering · Authentication · Location-Based Services · Agile Development</p>
+
+<p><sub><b>Built with:</b> TypeScript · React Native · Python · Django REST Framework · PostgreSQL · Docker · JWT</sub></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
