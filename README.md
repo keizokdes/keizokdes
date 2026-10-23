@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Keizo </h1>
-<h3 align="center">🎓 Coding Instructor & Aspiring Software Engineer | Open for Internships</h3>
+<h3 align="center">🎓 Coding Instructor & Aspiring Software Engineer | Open for Software/ML Engineering internships in Canada for 2027</h3>
 
 - 🌱 I'm currently learning **Concurrency, Cyber Security, Bayesian Inference, Distributed System Design, Refactoring**
 - 💬 Ask me about **python**
-- 📫 How to reach me **keizo.kato410@gmail.com**
-- 😄 Pronouns: **he/him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/keizokdes" target="_blank"><img src="https://img.shields.io/badge/GitHub-339933?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/keizok" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-339933?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/@keizokdes" target="_blank"><img src="https://img.shields.io/badge/YouTube-339933?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.linkedin.com/in/keizok" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@keizokdes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,25 +32,16 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-<h4>📁 <a href="https://github.com/keizokdes/rtb-report-creator">rtb-report-creator</a></h4>
-<p>Open source project repository</p>
-<p><sub><b>Built with:</b> TypeScript</sub></p>
-
 <h4>📁 <a href="https://github.com/keizokdes/YouTubeLivestreamApp">YouTubeLivestreamApp</a></h4>
-<p>deployed app</p>
+<p>deployed app (currently not)</p>
 <p><sub><b>Built with:</b> Python</sub></p>
 
 <h4>📁 <a href="https://github.com/keizokdes/Computer_Vision_Based_Acoustic_Guitar_Technique_Detection">Computer_Vision_Based_Acoustic_Guitar_Technique_Detection</a></h4>
 <p>Open source project repository</p>
 <p><sub><b>Built with:</b> Jupyter Notebook</sub></p>
 
-<h4>📁 <a href="https://github.com/keizokdes/YouTubeLivestreamApp">YouTubeLivestreamApp</a></h4>
-<p>deployed app</p>
-<p><sub><b>Built with:</b> Python</sub></p>
-
 <h4>📁 <a href="https://github.com/keizokdes/Computer_Vision_Based_Calculator">Computer_Vision_Based_Calculator</a></h4>
 <p><sub><b>Built with:</b> Python</sub></p>
-
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
