@@ -3,7 +3,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=keizokdes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut&cache_seconds=86400" alt="Top Languages" /><br/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=keizokdes&layout=donut&theme=tokyonight&hide_border=false"
+  alt="Top Languages"
+/>
+<br/>
 </p>
 
 <br />
