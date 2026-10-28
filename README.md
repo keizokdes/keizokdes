@@ -70,7 +70,7 @@ represents movement as directional histograms, and trains a multi-stream CNN cla
 <p><sub><b>Built with:</b> Python · PyTorch · YOLOv8n · OpenCV · NumPy · scikit-learn · Segment Anything · Jupyter · CUDA</sub></p>
 
 
-<h4>🍽️ <a href="https://github.com/COSC-499-W2023/year-long-project-team-21">LoseTheLeftovers</a></h4>
+<h4>🍽️ <a href="https://github.com/keizokdes/LoseTheLeftovers">LoseTheLeftovers</a></h4>
 
 <p>
 A cross-platform food-sharing application developed as a team capstone project to connect people with surplus food 
